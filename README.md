@@ -6,6 +6,8 @@
 
 ## About this fork
 
+* Supported Cpu A5/A5x to load img4 images [iBSS/LLB) in pwned DFU Mode . 
+
 * This fork allows you to load img4 images (e.g. iBSS/LLB) in pwned DFU mode.
 
 * Also supports loading of unsigned img4 images. Run "python rmsigchks.py" to remove signature checks.
